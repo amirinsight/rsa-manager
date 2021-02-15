@@ -1,4 +1,3 @@
-#This one is used instead of transform
 # Used in Encryption and Decryption codes. This module can transform text to a number and number to text
 
 def TextToNum(text):

@@ -1,12 +1,12 @@
 # rsa-manager
 Use this program to encrypt or decrypt text via RSA cryptosystem. You can also generate new keys.
 
-##Usage
+## Usage
 To use this program simply run Main.py
 
 
 
-#Licensing
+# Licensing
 MIT License
 
 Copyright (c) 2021 Amirhossein-Zare
